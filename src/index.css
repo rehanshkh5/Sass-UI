@@ -3,10 +3,9 @@
   --font-Inter: "Inter", sans-serif;
   --color-Green-mint: #54bd95;
   --color-Grey: #a6a6a6;
+  --color-heading: #191a15;
 }
 
 .text-Grey-M {
   @apply text-Grey text-[1rem] font-medium;
 }
-
- 

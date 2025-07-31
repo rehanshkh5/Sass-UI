@@ -1,10 +1,10 @@
 import React from "react";
-import logo from "../assets/logo.jpg";
-
+import logo from "../assets/logo.png";
+ 
 function Header() {
   return (
     <>
-      <header className="flex justify-around items-center m-4 p-4 font-Inter">
+      <header className="flex justify-around items-center m-4 p-4 font-Inter relative z-10">
         <div className="">
           <img src={logo} alt="Logo" className="w-[150px] h-[30px]" />
         </div>
