@@ -32,7 +32,7 @@ function MainSeactionImgs() {
       <div className="w-[634px] h-[634px] bg-[#FFD6D6]  absolute rounded-[100%] left-[35rem] bottom-[7rem] blur-[20rem] shadow-[39px 35px 20rem 20px] shadow-[#FFD6D6]"></div>
       <div>
         <div>
-          <div className="w-[634px] h-[634px] bg-Green-mint absolute rounded-[100%]  right-[-16rem] top-[15rem]  blur-[28rem] "></div>
+          <div className="w-[634px] h-[634px] bg-Green-mint absolute rounded-[100%]  right-[2rem] top-[15rem]  blur-[28rem] "></div>
           <div>
             <img src={MainImg} alt="MainImg" className="relative z-10 " />
             <div className="relative">

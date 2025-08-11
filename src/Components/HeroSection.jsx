@@ -9,7 +9,7 @@ export default function HeroSection() {
   return (
     <>
       <div>
-        <div className="flex gap-20 bg-[#F9F8FE] p-24 justify-center">
+        <div className="flex gap-20 bg-[#F9F8FE] p-24 justify-center ">
           <div className="flex flex-col gap-3">
             <h1 className="font-Inter font-semibold text-[50px] text-heading">
               How we support our <br />
@@ -28,6 +28,8 @@ export default function HeroSection() {
                 <img src={Rate} alt="Rate" />
 
                 <h3>4.9 / 5 rating</h3>
+                
+                
                 <p>databricks</p>
               </div>
               <div className="flex flex-col gap-2.5">
